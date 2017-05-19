@@ -2,7 +2,7 @@
 
 use core::fmt;
 
-#[derive(Eq, PartialEq, Ord, PartialOrd, Hash)]
+#[derive(Copy, Clone, Eq, PartialEq, Ord, PartialOrd, Hash)]
 pub struct U9(u16);
 
 impl U9 {
