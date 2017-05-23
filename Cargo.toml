@@ -2,5 +2,10 @@
 name = "u9"
 version = "0.1.0"
 authors = ["Martin Habovštiak <martin.habovstiak@gmail.com>"]
-
-[dependencies]
+license = "MITNFA"
+description = "Unsigned 9-bit integer type."
+homepage = "https://github.com/Kixunil/u9"
+repository = "https://github.com/Kixunil/u9"
+readme = "README.md"
+keywords = ["9-bit", "integer", "primitive"]
+categories = ["no-std", "rust-patterns"]
